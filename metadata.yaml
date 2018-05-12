@@ -6,13 +6,13 @@ covers:
 creator:
   authors:
   - agent_name: Daniel, Samuel
-    birthdate: &id001 1562
+    birthdate: 1562
     deathdate: 1619
     gutenberg_agent_id: '8289'
     url: http://www.gutenberg.org/2009/agents/8289
     wikipedia: http://en.wikipedia.org/wiki/Samuel_Daniel
   - agent_name: Constable, Henry
-    birthdate: *id001
+    birthdate: 1562
     deathdate: 1613
     gutenberg_agent_id: '8290'
     url: http://www.gutenberg.org/2009/agents/8290
@@ -24,6 +24,8 @@ creator:
     gutenberg_agent_id: '6063'
     url: http://www.gutenberg.org/2009/agents/6063
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/18842#Elizabethan-Sonnet-Cycles--Delia---Diana
 gutenberg_issued: '2006-07-16'
 gutenberg_type: Text
 identifiers:
